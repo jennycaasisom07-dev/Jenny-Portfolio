@@ -82,7 +82,7 @@ Approved for Release 6.0
 
 
 
-## Template
+# Templates
 
 ## User Story
 As a [role],  
