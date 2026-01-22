@@ -82,6 +82,8 @@ Approved for Release 6.0
 
 
 
+###Template
+
 ## User Story
 As a [role],  
 I want [feature],  
