@@ -8,6 +8,28 @@ This repository showcases my work as a Business Analyst, including:
 - Change Requests (As-Is / To-Be)
 - Release Notes
 
+# Business Analyst Portfolio
+
+This repository demonstrates my work as a Business Analyst, focusing on:
+- Translating business needs into clear requirements
+- Writing user stories and acceptance criteria
+- Managing change requests (As-Is / To-Be)
+- Supporting product delivery with Dev, QA, and Design teams
+
+## Sample Domains
+- Content Management Systems
+- Role-based access control
+- Platform performance & scalability
+
+## What This Repo Shows
+- Structured requirement documentation
+- Clear, testable acceptance criteria
+- Practical change management approach
+- Collaboration-ready artifacts
+
+> Note: All examples are anonymized and created for demonstration purposes.
+
+
 ## Structure
 - **docs**: Requirement documentation
 - **templates**: Reusable BA templates
